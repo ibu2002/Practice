@@ -42,7 +42,7 @@ class Person {
         System.out.println("The Last Name of the person is : "+lastName);
     }
     public void printAge() {
-        System.out.println("The Age of the Person is: "+age);
+        System.out.println("The Age of the Person is:  "+age);
     }
     public void printGender() {
         System.out.println("The Gender of the person is: "+gender);
